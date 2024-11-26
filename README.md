@@ -1,6 +1,7 @@
-# Filter, REduce and Combine CSV Files
-*240929 Combine and reduce CSV files*
+# 240929 Combine and Reduce CSV Files
 
-this is an Upwork job which want to filter and get only the necessary columns from all csv files in a folder. and then combine the results as the specified max. line/file.
+to filter and get only the necessary columns from all csv files in the specified folder.
+and then combine all results into the specified files which able to set the max. line/file.
 
-the demo is [here](https://youtu.be/XFZsYBfL2bU?si=0GYPVJKCdfoY3CNK)
+# Demo
+the Youtube demo is [here](https://youtu.be/XFZsYBfL2bU?si=0GYPVJKCdfoY3CNK)
